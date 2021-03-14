@@ -3,7 +3,7 @@ Name:		dnf-plugin-diff
 Version:	1.1
 Release:	1
 License:	GPL v2+
-Source0:	https://github.com/praiskup/%name/releases/download/v%version/%name-%version.tar.gz
+Source0:	https://github.com/praiskup/%{name}/releases/download/v%{version}/%{name}-%{version}.tar.gz
 # Source0-md5:	85ecc6d16ff815280715a5dec02e8174
 URL:		https://github.com/praiskup/dnf-plugin-diff
 BuildRequires:	python3-modules
